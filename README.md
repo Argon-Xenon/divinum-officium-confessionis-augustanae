@@ -1,10 +1,9 @@
-# divinum-officium
+# divinum-officium-confessionis-augustanae
 
 Data files and source code for the
-[Divinum Officium](http://www.divinumofficium.com/) project.
+Divinum Officium Confessionis Augustanae project.
 
-This document is intended for people wishing to contribute to the project. To
-pray the office, please [visit the website](http://www.divinumofficium.com/).
+This document is intended for people wishing to contribute to the project.
 
 To generate standalone files (e.g. for electronic eBook readers) see
 [How to generate Divine Office files](standalone/tools/epubgen2/README.md).
